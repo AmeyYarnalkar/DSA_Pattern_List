@@ -191,28 +191,3 @@ sum = A - B - C + D
 * Max Sum Rectangle ≤ K (LC 363)
 
 ---
-
-##  7. Boundary Traversal
-
-###  Pattern
-
-Traverse only outer edges.
-
-###  Flow
-
-* Top row
-* Right column
-* Bottom row (reverse)
-* Left column (reverse)
-
-###  Pitfalls
-
-* Corner duplication
-
-###  Problems
-
-* Boundary Traversal (GFG)
-* Spiral Matrix (LC 54)
-* Matrix Layer Rotation (HackerRank)
-
----
